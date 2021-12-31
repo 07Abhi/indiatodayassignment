@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1639179351/android.connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/-1639179351/android.connectivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2090526450/android.flutter_keyboard_visibility.iml" filepath="$PROJECT_DIR$/.idea/modules/2090526450/android.flutter_keyboard_visibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1085226514/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1085226514/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1306314466/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-1306314466/android.sqflite.iml" />
+    </modules>
+  </component>
+</project>

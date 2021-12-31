@@ -1,0 +1,4 @@
+#Fri Dec 31 12:02:54 IST 2021
+base.0=/Users/admin/Downloads/ajjtak_assignment/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
